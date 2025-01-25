@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 Me chamo Danilo e aqui abaixo estão algumas informações que acho interessante/curioso compartilhar :)
 
 - :computer: Atualmente trabalho como desenvolvedor Python no [Grupo Nexees](https://www.gruponexxees.com/).
-- :ocean: Moro em Floripa - SC mas raramente vou a praia :x
+- :ocean: Moro em Biguaçu - SC mas raramente vou a praia.
 - :bar_chart: Já fui analista em empresas de Contact Center, e a automação de relatórios em Excel via VBA foi o que despertou meu interesse na área de programação.
 - :mortar_board: Sou Bacharel em Sistemas de Informação.
-- :fish_cake: Naruteiro como um bom nerdola deve ser. :pray:
+
 
 ### :wrench: Tecnologias e Ferramentas
 
@@ -36,12 +36,14 @@ Me chamo Danilo e aqui abaixo estão algumas informações que acho interessante
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title = "GitLab"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title = "Jira"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title = "Ubuntu"/></code>
-
-#### Estou aprendendo
-
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title = "Django"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title = "Flask"/></code>
 
+#### Estou aprendendo
+<!--
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title = "Django"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title = "Flask"/></code>
+-->
 ### 
 
 <div>
